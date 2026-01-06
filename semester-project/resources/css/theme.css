@@ -1,0 +1,11 @@
+:root {
+    --bs-primary: #1967d2;
+    --bs-secondary: #6c757d;
+    --bs-success: #28a745;
+    --bs-danger: #dc3545;
+    --bs-warning: #ffc107;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
