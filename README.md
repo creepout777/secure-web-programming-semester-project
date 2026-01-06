@@ -1,7 +1,4 @@
-Voici une version structurée et optimisée pour un fichier README.md sur GitHub, en utilisant la syntaxe Markdown appropriée et une hiérarchie claire.
-LMS - Plateforme Étudiants & Professeurs
 
-Une plateforme de gestion d'apprentissage (Learning Management System) conçue pour offrir une interface unifiée aux étudiants et aux professeurs. L'interface utilisateur repose sur le framework Tabler UI pour garantir un design moderne, réactif et cohérent.
 
     Documentation UI : https://docs.tabler.io/ui
 
