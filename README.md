@@ -1,10 +1,19 @@
+# Projet 4 : System de Gestion Scolaire (similaire a Google classroom)
+# Objectif du Projet
+Ce projet a pour objectif de développer une plateforme éducative centralisée, inspirée de Google Classroom, destinée à faciliter l’apprentissage en ligne et à améliorer la communication entre professeurs et étudiants.\
+La plateforme permettra le partage de ressources pédagogiques telles que cours, documents et vidéos, la gestion des devoirs avec des dates limites et une soumission en ligne, ainsi que la correction et la notation accompagnées de feedback personnalisé.\
+Elle intégre également des outils de communication via des annonces et des espaces de discussion, tout en offrant un suivi clair et structuré de la progression des étudiants.
 
 # Membres du groupe et leurs roles:
     
-    AITAOUICHA YASSINE: Responsable sur la Securite, Conception et initiation du projet.
-    MOURABIT HAMZA: Responsable sur les Controlleurs et vues de l'etudiant.
-    BAKR DAKHIL & OTHMAN BOUAYAD : Responsables sur les Controlleurs et vues du professeur.
-    HAYTAM HANNOUN: Responsable sur les Controlleurs et vues de l'admin
+| Nom | Rôle |
+|----|------|
+| **AITAOUICHA YASSINE** | Responsable de la sécurité, de la conception et de l'initialisation du projet |
+| **MOURABIT HAMZA** | Responsable des contrôleurs et des vues de l'étudiant |
+| **BAKR DAKHIL** | Responsable des contrôleurs et des vues du professeur |
+| **OTHMAN BOUAYAD** | Responsable des contrôleurs et des vues du professeur |
+| **HAYTAM HANNOUN** | Responsable des contrôleurs et des vues de l'administrateur |
+
 
  # Prérequis
 
