@@ -1,6 +1,10 @@
 
-
-    Documentation UI : https://docs.tabler.io/ui
+# Membres du groupe et leurs roles:
+    
+    AITAOUICHA YASSINE: Responsable sur la Securite, Conception et initiation du projet.
+    MOURABIT HAMZA: Responsable sur les Controlleurs et vues de l'etudiant.
+    BAKR DAKHIL & OTHMAN BOUAYAD : Responsables sur les Controlleurs et vues du professeur.
+    HAYTAM HANNOUN: Responsable sur les Controlleurs et vues de l'admin
 
  # Prérequis
 
@@ -97,4 +101,4 @@ Le projet suit l'architecture MVC (Modèle-Vue-Contrôleur) de Laravel :
 
         resources/views/etudiant
 
-    Note importante : Toutes les vues doivent impérativement utiliser les composants Tabler UI pour maintenir l'uniformité visuelle du projet.
+    Documentation UI: Documentation UI : https://docs.tabler.io/ui
