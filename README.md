@@ -1,4 +1,4 @@
-# Projet 4 : System de Gestion Scolaire (similaire a Google classroom)
+# Projet 4 : Systeme de Gestion Scolaire (similaire a Google classroom)
 # Objectif du Projet
 Ce projet a pour objectif de développer une plateforme éducative centralisée, inspirée de Google Classroom, destinée à faciliter l’apprentissage en ligne et à améliorer la communication entre professeurs et étudiants.\
 La plateforme permettra le partage de ressources pédagogiques telles que cours, documents et vidéos, la gestion des devoirs avec des dates limites et une soumission en ligne, ainsi que la correction et la notation accompagnées de feedback personnalisé.\
