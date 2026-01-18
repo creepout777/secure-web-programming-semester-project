@@ -5,7 +5,7 @@
  # Prérequis
 
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur votre machine :
-
+```
     PHP ≥ 8.1
 
     Composer
@@ -13,40 +13,40 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
     Node.js ≥ 18 (+ npm ou yarn)
 
     MySQL
-
+```
  # Installation
 
 Suivez ces étapes pour configurer le projet localement :
 1. Clonage du projet
-Bash
 
+```
 git clone <url-du-repo>
 cd <nom-du-repo>
-
+```
 2. Installation des dépendances
 
 PHP :
-Bash
 
+```
 composer install
-
+```
 Node.js :
-Bash
 
+```
 npm install
-
+```
 3. Compilation des assets
-Bash
 
+```
 npm run dev
-
+```
 4. Configuration de la base de données
 
 Créez une base de données MySQL nommée semester_project.
 
 Copiez le fichier d'exemple et configurez vos accès dans le fichier .env :
 Code snippet
-
+```
 DB_CONNECTION=mysql
 
 DB_HOST=127.0.0.1
@@ -58,21 +58,22 @@ DB_DATABASE=semester_project
 DB_USERNAME=root
 
 DB_PASSWORD=votre_mot_de_passe
-
+```
 5. Migrations et Données
-Bash
+
 
 ## Lancer les migrations
+```
 php artisan migrate
-
+```
 ## (Optionnel) Seed des données initiales
+```
 php artisan db:seed
-
+```
 6. Lancer l'application
-Bash
-
+```
 php artisan serve
-
+```
 Accédez à l'interface via : http://127.0.0.1:8000
 # Charte Graphique
 
