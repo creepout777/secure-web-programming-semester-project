@@ -63,7 +63,7 @@ DB_USERNAME=root
 
 DB_PASSWORD=votre_mot_de_passe
 ```
-5. Migrations et Données
+
 
 
 ## Lancer les migrations
